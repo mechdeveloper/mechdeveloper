@@ -7,6 +7,7 @@
 - 💬 Ask me about Microsoft Azure, Windows Containers, PowerShell, C#, JavaScript
 - 📫 How to reach me: @mechdeveloper1 on Twitter
 - ⚡ Fun fact: ...
+- 💼 LinkedIn: https://www.linkedin.com/in/baghelashish/
 - 🌐 My website: https://techhackswithash.com/
 - 📝 My Blogs: https://blog.techhackswithash.com/
 - 💻 Medium: https://mechdeveloper.medium.com/
