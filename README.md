@@ -8,26 +8,28 @@
 ### My Tech Toolbox  
 
 <p align="left">
-<img width="40" height="40" alt="Jira"         src="https://img.icons8.com/color/72/jira.png"            />  
-<img width="40" height="40" alt="HTML5"        src="https://img.icons8.com/color/72/html-5--v1.png"      />
-<img width="40" height="40" alt="CSS3"         src="https://img.icons8.com/color/72/css3.png"            />
-<img width="40" height="40" alt="JavaScript"   src="https://img.icons8.com/color/72/javascript--v2.gif"  />
-<img width="40" height="40" alt="VSCode"       src="https://img.icons8.com/fluency/72/visual-studio-code-2019.png"  />
-<img width="40" height="40" alt="C#"           src="https://img.icons8.com/color/72/c-sharp-logo.png"    />  
-<img width="40" height="40" alt="Python"       src="https://img.icons8.com/color/72/python--v2.gif"      />
-<img width="40" height="40" alt="VisualStudio" src="https://img.icons8.com/fluency/72/visual-studio.png" />
-<img width="40" height="40" alt="git"          src="https://img.icons8.com/color/72/git.png"             />
-<img width="40" height="40" alt="GitHub"       src="https://img.icons8.com/fluency/72/github.png"        />
-<img width="40" height="40" alt="MongoDB"      src="https://img.icons8.com/color/72/mongodb.png"         />
-<img width="40" height="40" alt="Bash"         src="https://img.icons8.com/plasticine/2x/bash.png"       />
-<img width="40" height="40" alt="Docker"       src="https://img.icons8.com/fluency/72/docker.png"        />
-<img width="40" height="40" alt="Jenkins"      src="https://img.icons8.com/color/72/jenkins.png"         />
-<img width="40" height="40" alt="Linux"        src="https://img.icons8.com/color/72/linux--v1.png"       />
-<img width="40" height="40" alt="Ubuntu"       src="https://img.icons8.com/color/72/ubuntu--v1.png"      />
-<img width="40" height="40" alt="PowerShell"   src="https://img.icons8.com/color/72/powershell.png"      />
-<img width="40" height="40" alt="VirtualBox"   src="https://img.icons8.com/color/72/virtualbox.png"      />
-<img width="40" height="40" alt="Windows"      src="https://img.icons8.com/fluency/72/windows-10.png"    />
-<img width="40" height="40" alt="Azure"        src="https://img.icons8.com/fluency/72/azure-1.png"       />
+<img width="40" height="40" alt="Jira"         src="https://img.icons8.com/color/72/jira.png"                      />  
+<img width="40" height="40" alt="HTML5"        src="https://img.icons8.com/color/72/html-5--v1.png"                />
+<img width="40" height="40" alt="CSS3"         src="https://img.icons8.com/color/72/css3.png"                      />
+<img width="40" height="40" alt="JavaScript"   src="https://img.icons8.com/color/72/javascript--v1.png"            />
+<img width="40" height="40" alt="VSCode"       src="https://img.icons8.com/fluency/72/visual-studio-code-2019.png" />
+<img width="40" height="40" alt="C#"           src="https://img.icons8.com/color/72/c-sharp-logo.png"              />  
+<img width="40" height="40" alt="Python"       src="https://img.icons8.com/fluency/72/python.png"                  />
+<img width="40" height="40" alt="VisualStudio" src="https://img.icons8.com/fluency/72/visual-studio.png"           />
+<img width="40" height="40" alt="git"          src="https://img.icons8.com/color/72/git.png"                       />
+<img width="40" height="40" alt="GitHub"       src="https://img.icons8.com/color/72/github--v1.png"                />
+<img width="40" height="40" alt="MongoDB"      src="https://img.icons8.com/color/72/mongodb.png"                   />
+<img width="40" height="40" alt="Bash"         src="https://img.icons8.com/plasticine/2x/bash.png"                 />
+<img width="40" height="40" alt="Docker"       src="https://img.icons8.com/fluency/72/docker.png"                  />
+<img width="40" height="40" alt="Jenkins"      src="https://img.icons8.com/color/72/jenkins.png"                   />
+<img width="40" height="40" alt="Linux"        src="https://img.icons8.com/color/72/linux--v1.png"                 />
+<img width="40" height="40" alt="Ubuntu"       src="https://img.icons8.com/color/72/ubuntu--v1.png"                />
+<img width="40" height="40" alt="PowerShell"   src="https://img.icons8.com/color/72/powershell.png"                />
+<img width="40" height="40" alt="VirtualBox"   src="https://img.icons8.com/color/72/virtualbox.png"                />
+<img width="40" height="40" alt="Windows"      src="https://img.icons8.com/fluency/72/windows-10.png"              />
+<img width="40" height="40" alt="Terraform"    src="https://img.icons8.com/fluency/72/terraform.png"               />
+<img width="40" height="40" alt="Azure"        src="https://img.icons8.com/fluency/72/azure-1.png"                 />
+<img width="40" height="40" alt="AWS"          src="https://img.icons8.com/color/72/amazon-web-services.png"       />
 </p>
 
 - 🔭 I’m currently working on Cloud, DevOps, Modern Applications
