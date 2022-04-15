@@ -64,14 +64,13 @@
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{mechdeveloper}/count.svg)
 
-<div align="center">
+<!-- <div align="center">
   <p>
     <a href="https://techhackswithash.com/" target="_blank"> 
       <img width="100%" alt="Coder" src="https://i.gifer.com/24Br.gif" />
     </a>
   </p>
-</div>
-
+</div> -->
 
 [website]:  https://techhackswithash.com
 [blog]:     https://blog.techhackswithash.com
