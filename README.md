@@ -5,8 +5,9 @@
 [<img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][Medium]
 [<img height="30" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][Twitch]
 
-### My Tech Toolbox  
+## My Tech Tools  
 
+</br>
 <p align="left">
 <img width="40" height="40" alt="Jira"         src="https://img.icons8.com/color/72/jira.png"                      />  
 <img width="40" height="40" alt="HTML5"        src="https://img.icons8.com/color/72/html-5--v1.png"                />
@@ -31,6 +32,7 @@
 <img width="40" height="40" alt="Azure"        src="https://img.icons8.com/fluency/72/azure-1.png"                 />
 <img width="40" height="40" alt="AWS"          src="https://img.icons8.com/color/72/amazon-web-services.png"       />
 </p>
+</br>
 
 - 🔭 I’m currently working on Cloud, DevOps, Modern Applications
 - 🌱 I’m currently learning Azure Cloud, Azure DevOps, Windows and Linux Containers, Kubernetes, Python and AI
@@ -40,25 +42,43 @@
 - 📫 How to reach me: @mechdeveloper1 on Twitter
 - ⚡ Fun fact: ...
 
+</br>
+
 ---
 
-### GitHub Stats
+</br>
+  <div align="center">
+    <p>
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechdeveloper&show_icons=true&locale=en&layout=compact&theme=gotham" />
+    </p>
+    <p>
+      <img alt="Streak Status"       src="https://github-readme-streak-stats.herokuapp.com/?user=mechdeveloper&theme=gotham" />
+    </p>
+    <p>
+      <img alt="Github Stats"        src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=gotham" />
+    </p>
+  </div>
+</br>
 
-<div>
-  <p align="left"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=gotham" alt="Ashish Singh Baghel | Stats" />
-  </p>
-</div>
-
+---
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{mechdeveloper}/count.svg)
 
-[website]: https://techhackswithash.com
-[blog]: https://blog.techhackswithash.com
-[twitter]: https://twitter.com/mechDeveloper1
-[youtube]: https://www.youtube.com/channel/UCJ7uLE5xaKA7qScKSX5Z_mw
-[blog]: https://blog.techhackswithash.com/
+<div align="center">
+  <p>
+    <a href="https://techhackswithash.com/" target="_blank"> 
+      <img width="100%" alt="Coder" src="https://i.gifer.com/24Br.gif" />
+    </a>
+  </p>
+</div>
+
+
+[website]:  https://techhackswithash.com
+[blog]:     https://blog.techhackswithash.com
+[twitter]:  https://twitter.com/mechDeveloper1
+[youtube]:  https://www.youtube.com/channel/UCJ7uLE5xaKA7qScKSX5Z_mw
+[blog]:     https://blog.techhackswithash.com/
 [linkedin]: https://www.linkedin.com/in/baghelashish/
-[Medium]: https://medium.com/@mechdeveloper
+[Medium]:   https://medium.com/@mechdeveloper
 [Facebook]: https://www.facebook.com/mechboyash
-[Twitch]: https://www.twitch.tv/ashishsinghbaghel
+[Twitch]:   https://www.twitch.tv/ashishsinghbaghel
