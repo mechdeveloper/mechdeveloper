@@ -49,13 +49,13 @@
 </br>
   <div align="center">
     <p>
-      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechdeveloper&show_icons=true&locale=en&layout=compact&theme=gotham" />
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechdeveloper&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
     </p>
     <p>
-      <img alt="Streak Status"       src="https://github-readme-streak-stats.herokuapp.com/?user=mechdeveloper&theme=gotham" />
+      <img alt="Streak Status"       src="https://github-readme-streak-stats.herokuapp.com/?user=mechdeveloper&theme=tokyonight" />
     </p>
     <p>
-      <img alt="Github Stats"        src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=gotham" />
+      <img alt="Github Stats"        src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=tokyonight" />
     </p>
   </div>
 </br>
