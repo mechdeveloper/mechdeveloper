@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I like to visit new cities 🏙
 
 ## Languages and Tools:
-<br>
+
 <p align="left">
   <a style="padding-right:10px;" target="blank" href="https://www.atlassian.com/software/jira"> 
     <img width="40" height="40" alt="Jira" src="https://img.icons8.com/color/72/jira.png" />
@@ -84,7 +84,6 @@
     <img width="40" height="40" alt="AWS" src="https://img.icons8.com/color/72/amazon-web-services.png" />
   </a>
 </p>
-<br>
 
 ---
 ## [📺 Latest YouTube Videos][youtube]
@@ -113,19 +112,18 @@
 ➡️ [more blog posts...][medium]
 
 ---
-<br>
-  <div align="left">
-    <!-- <p> 
-      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechdeveloper&show_icons=true&locale=en&layout=compact&theme=tokyonight" /> 
-    </p>
-    <p>
-      <img alt="Streak Status" src="https://github-readme-streak-stats.herokuapp.com/?user=mechdeveloper&theme=tokyonight" />
-    </p> -->
-    <p> 
-      <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=tokyonight" /> 
-    </p>
-  </div>
-<br>
+<div align="left">
+  <!-- <p> 
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechdeveloper&show_icons=true&locale=en&layout=compact&theme=tokyonight" /> 
+  </p>
+  <p>
+    <img alt="Streak Status" src="https://github-readme-streak-stats.herokuapp.com/?user=mechdeveloper&theme=tokyonight" />
+  </p> -->
+  <p> 
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=tokyonight" /> 
+  </p>
+</div>
+
 
 ---
 <details> <summary>👨‍🎓 Certifications</summary>
