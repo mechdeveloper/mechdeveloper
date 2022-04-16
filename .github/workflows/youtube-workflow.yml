@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Latest YouTube videos workflow
 on:
   schedule:
     # Runs every hour
@@ -15,4 +15,3 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ7uLE5xaKA7qScKSX5Z_mw"
-          

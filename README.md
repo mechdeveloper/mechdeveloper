@@ -92,11 +92,15 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+➡️ [more videos...][youtube]
+
 ---
-## [📕 Latest Blog Posts][blog]
+## [📕 Latest Blog Posts][medium]
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][medium]
 
 ---
 <br>
