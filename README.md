@@ -101,6 +101,11 @@
 ## [📕 Latest Blog Posts][blog]
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Jenkins using Docker Desktop &lpar;linux containers&rpar;](https://mechdeveloper.medium.com/run-jenkins-using-docker-desktop-linux-containers-a39ee94ea7f6?source=rss-674b24093429------2)
+- [Remote Management of Windows Server Docker Host](https://mechdeveloper.medium.com/remote-management-of-windows-server-docker-host-603f03e33216?source=rss-674b24093429------2)
+- [Windows Server 2016 | Containers](https://mechdeveloper.medium.com/windows-server-2016-containers-bc0baa2222c1?source=rss-674b24093429------2)
+- [Add custom domain names in your Azure Active Directory](https://mechdeveloper.medium.com/add-custom-domain-names-in-your-azure-active-directory-a5e519b4b1f5?source=rss-674b24093429------2)
+- [Basic Kubernetes &lpar;K8s&rpar; Commands | minikube | Pods | Services](https://mechdeveloper.medium.com/basic-kubernetes-k8s-commands-minikube-pods-services-a7572e8cc796?source=rss-674b24093429------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
