@@ -33,7 +33,7 @@
     <img width="40" height="40" alt="GatsbyJS" src="https://img.icons8.com/color/72/gatsbyjs.png" />
   </a>
   <a style="padding-right:10px;" href="https://reactjs.org/">
-    <img width="40" height="40" alt="ReactJS" src="https://img.icons8.com/color/48/000000/react-native.png" />
+    <img width="40" height="40" alt="ReactJS" src="https://img.icons8.com/color/72/react-native.png" />
   </a>
   <a style="padding-right:10px;" href="https://code.visualstudio.com/">
     <img width="40" height="40" alt="VSCode" src="https://img.icons8.com/fluency/72/visual-studio-code-2019.png" />
