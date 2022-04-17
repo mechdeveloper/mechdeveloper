@@ -86,6 +86,14 @@
 </p>
 
 ---
+<details>
+<summary align="left" style="color:yellow;"> 
+  <font size="+1">
+    know more ...
+  </font> 
+</summary>
+
+---
 ## [📺 Latest YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
@@ -124,9 +132,9 @@
   </p>
 </div>
 
-
 ---
-<details> <summary>👨‍🎓 Certifications</summary>
+## 👨‍🎓 Certifications
+
   <br>
   <p align="center">
     <a href="https://www.credly.com/badges/d8659ac1-311c-4413-a7f4-1fc950ad9a00/public_url">
@@ -146,7 +154,8 @@
     </a>
   </p>
   <br>
-</details>
+
+</details> 
 
 ---
 ### Visitor Count
