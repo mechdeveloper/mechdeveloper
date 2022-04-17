@@ -3,7 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin" />][linkedIn]
 [<img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img height="30" src="https://img.shields.io/youtube/channel/subscribers/UCJ7uLE5xaKA7qScKSX5Z_mw?label=YouTube&logo=youtube&logoColor=red&style=for-the-badge">][youtube]
-[<img height="30" src="https://img.shields.io/twitter/follow/mechdeveloper?logo=twitter&style=for-the-badge" />][twitter]
+[<img height="30" src="https://img.shields.io/twitter/follow/mechdeveloper1?logo=twitter&style=for-the-badge" />][twitter]
 [<img height="30" src="https://img.shields.io/twitch/status/ashishsinghbaghel?logo=twitch&style=for-the-badge" />][twitch]
 [<img height="30" src="https://img.shields.io/github/followers/mechdeveloper?label=Github&logo=github&style=for-the-badge" />][github]
 
