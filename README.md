@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Azure DevOps, Windows Containers, Azure Pipelines, Windows Server 2016
 - 🌱 I’m currently learning Terraform, Microsoft Azure, Windows and Linux Containers, Kubernetes, Python and AI
-- 👯 I’m looking to collaborate on tech preseatations/speaking, content creation and cool digital projects
+- 👯 I’m looking to collaborate on tech presentations/speaking, content creation and cool digital projects
 - 💬 Ask me about Azure DevOps, Docker, Microsoft Azure, Containers, PowerShell, C#, JavaScript
 - 📫 How to reach me: [LinkedIn @baghelashish][linkedin] and [Twitter @mechdeveloper1][twitter]
 - ⚡ Fun fact: I like to visit new cities 🏙
