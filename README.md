@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on tech presentations/speaking, content creation and cool digital projects
 - 💬 Ask me about Azure DevOps, Docker, Microsoft Azure, Containers, PowerShell, C#, JavaScript
 - 📫 How to reach me: [LinkedIn @baghelashish][linkedin] and [Twitter @mechdeveloper1][twitter]
-- ⚡ Fun fact: I am a mechanical engineeer 👨‍🔧
+- ⚡ Fun fact: I am a Mechanical engineer 👨‍🔧
 
 ## Languages and Tools:
 
