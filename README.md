@@ -92,6 +92,9 @@
 </p>
 
 ---
+[![Certifications](https://credly-readme-widget.vercel.app/api?username=ashishsinghbaghel)](https://github.com/mechdeveloper/credly-readme-widget)
+
+---
 <details>
 <summary align="left" style="color:yellow;"> 
   <font size="+1">
