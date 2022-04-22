@@ -92,7 +92,7 @@
 </p>
 
 ---
-[![Certifications](https://github-readme-widgets.vercel.app/api?username=ashishsinghbaghel)](https://github.com/mechdeveloper/github-readme-widgets)
+[![Certifications](https://github-readme-widgets.vercel.app/api?username=ashishsinghbaghel&theme=tokyonight)](https://github.com/mechdeveloper/github-readme-widgets)
 
 ---
 <details>
