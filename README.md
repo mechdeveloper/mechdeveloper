@@ -137,7 +137,9 @@
     <img alt="Streak Status" src="https://github-readme-streak-stats.herokuapp.com/?user=mechdeveloper&theme=tokyonight" />
   </p> -->
   <p> 
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=tokyonight" /> 
+    <a href="https://github-readme-stats.vercel.app">
+      <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mechdeveloper&show_icons=true&theme=tokyonight" /> 
+    </a>
   </p>
 </div>
 
