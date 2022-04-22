@@ -92,7 +92,7 @@
 </p>
 
 ---
-[![Certifications](https://certifications-readme-widget.vercel.app/api?username=ashishsinghbaghel)](https://github.com/mechdeveloper/credly-readme-widget)
+[![Certifications](https://github-readme-widgets.vercel.app/api?username=ashishsinghbaghel)](https://github.com/mechdeveloper/github-readme-widgets)
 
 ---
 <details>
