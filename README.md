@@ -106,11 +106,11 @@
 ## [📺 Latest YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
+- [Verified Commits on GitHub from Windows PC &lpar; GPG Key &rpar;](https://www.youtube.com/watch?v=xj9OiJL56pM)
 - [Unboxing 📦 Logitech C920s PRO HD Webcam 📷](https://www.youtube.com/watch?v=XVXd2aCKrpI)
 - [🎁 Unboxing Christmas 🎄 giveaway from Azure User Group Sweden 🤩](https://www.youtube.com/watch?v=53VA5r4vmr8)
 - [[Windows Containers] Remote Management of Docker Host over TCP port encrypted with TLS](https://www.youtube.com/watch?v=JZXtYTILxIQ)
 - [[ Windows Server 2022 ] Enable Remote Desktop Connection &lpar;RDP&rpar;](https://www.youtube.com/watch?v=JTRD5i8RN0s)
-- [Install Windows Server 2022 VM on Windows 10 using VirtualBox](https://www.youtube.com/watch?v=isBTdCFU9I4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
