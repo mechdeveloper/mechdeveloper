@@ -106,7 +106,7 @@
 ## [📺 Latest YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
-- [[ HashiTalks India ] Infrastructure as Code on Azure using Github Codespaces and Terraform Cloud](https://www.youtube.com/watch?v=0pNZ2UWkPfQ)
+- [HashiTalks: India 👨‍💻 Infrastructure as Code on Azure using Github Codespaces and Terraform Cloud](https://www.youtube.com/watch?v=0pNZ2UWkPfQ)
 - [Verified Commits on GitHub from Windows PC &lpar; GPG Keys &rpar;](https://www.youtube.com/watch?v=xj9OiJL56pM)
 - [Unboxing 📦 Logitech C920s PRO HD Webcam 📷](https://www.youtube.com/watch?v=XVXd2aCKrpI)
 - [🎁 Unboxing Christmas 🎄 giveaway from Azure User Group Sweden 🤩](https://www.youtube.com/watch?v=53VA5r4vmr8)
