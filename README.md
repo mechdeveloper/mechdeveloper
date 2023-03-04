@@ -106,11 +106,11 @@
 ## [📺 Latest YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
+- [[ Unboxing ] 📱 iPhone13 Mini Midnight Black &lpar;2023&rpar; + Screen Protector + Leather Case &lpar;MagSafe&rpar;](https://www.youtube.com/watch?v=D95imnv6pWg)
 - [[HashiTalks: India] 👨‍💻 Terraform Cloud Development Environment for Microsoft Azure](https://www.youtube.com/watch?v=0pNZ2UWkPfQ)
 - [Verified Commits on GitHub from Windows PC &lpar; GPG Keys &rpar; ✅](https://www.youtube.com/watch?v=xj9OiJL56pM)
 - [Unboxing 📦 Logitech C920s PRO HD Webcam 📷](https://www.youtube.com/watch?v=XVXd2aCKrpI)
 - [🎁 Unboxing Christmas 🎄 giveaway from Azure User Group Sweden 🤩](https://www.youtube.com/watch?v=53VA5r4vmr8)
-- [[Windows Containers] Remote Management of Docker Host over TCP port encrypted with TLS](https://www.youtube.com/watch?v=JZXtYTILxIQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
