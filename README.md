@@ -1,4 +1,4 @@
-# Hi I am Ashish Singh Baghel
+# Hi 👋 I am Ashish Singh Baghel
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin" />][linkedIn]
 [<img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
