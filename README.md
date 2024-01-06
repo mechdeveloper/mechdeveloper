@@ -92,7 +92,12 @@
 </p>
 
 ---
+<!--
+Jan 06 2024
+Replacing credly badges with mslearn transcript
 [![Certifications](https://github-readme-widgets.vercel.app/api?username=ashishsinghbaghel&theme=tokyonight)](https://github.com/mechdeveloper/github-readme-widgets)
+-->
+[![Certifications](https://github-readme-widgets.vercel.app/api/mslearn?transcriptId=vpeji20qwm6x9r7&theme=tokyonight)](https://github.com/mechdeveloper/github-readme-widgets)
 
 ---
 <details>
