@@ -108,30 +108,17 @@ Replacing credly badges with mslearn transcript
 </summary>
 
 ---
-## [📺 Latest YouTube Videos][youtube]
+## [📺 Featured YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
-- [[ Unboxing ] 📱 iPhone 13 mini - Midnight Black &lpar;2023&rpar; + Screen Protector + Leather Case &lpar;MagSafe&rpar;](https://www.youtube.com/watch?v=D95imnv6pWg)
-- [👨‍💻 Github Codespaces for Microsoft Azure  ☁  with Terraform Cloud](https://www.youtube.com/watch?v=0pNZ2UWkPfQ)
 - [Verified Commits on GitHub from Windows PC &lpar; GPG Keys &rpar; ✅](https://www.youtube.com/watch?v=xj9OiJL56pM)
-- [Unboxing 📦 Logitech C920s PRO HD Webcam 📷](https://www.youtube.com/watch?v=XVXd2aCKrpI)
-- [🎁 Unboxing Christmas 🎄 giveaway from Azure User Group Sweden 🤩](https://www.youtube.com/watch?v=53VA5r4vmr8)
+- [👨‍💻 Github Codespaces for Microsoft Azure  ☁  with Terraform Cloud](https://www.youtube.com/watch?v=0pNZ2UWkPfQ)
+- [Docker Engine Enterprise on Windows Server 2019 VM](https://www.youtube.com/watch?v=sHyZipgbYAo)
+- [Remote Management of Docker Host over TCP port encrypted with TLS](https://www.youtube.com/watch?v=JZXtYTILxIQ)
+- [Azure Serverless containers | Azure Container Instances using Docker CLI | Complete Hands On](https://www.youtube.com/watch?v=NdZlgq8D8oE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
-
----
-## [📕 Latest Blog Posts][medium]
-
-<!-- BLOG-POST-LIST:START -->
-- [Run Jenkins using Docker Desktop &lpar;linux containers&rpar;](https://mechdeveloper.medium.com/run-jenkins-using-docker-desktop-linux-containers-a39ee94ea7f6?source=rss-674b24093429------2)
-- [Remote Management of Windows Server Docker Host](https://mechdeveloper.medium.com/remote-management-of-windows-server-docker-host-603f03e33216?source=rss-674b24093429------2)
-- [Windows Server 2016 | Containers](https://mechdeveloper.medium.com/windows-server-2016-containers-bc0baa2222c1?source=rss-674b24093429------2)
-- [Add custom domain names in your Azure Active Directory](https://mechdeveloper.medium.com/add-custom-domain-names-in-your-azure-active-directory-a5e519b4b1f5?source=rss-674b24093429------2)
-- [Basic Kubernetes &lpar;K8s&rpar; Commands | minikube | Pods | Services](https://mechdeveloper.medium.com/basic-kubernetes-k8s-commands-minikube-pods-services-a7572e8cc796?source=rss-674b24093429------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][medium]
 
 ---
 <div align="left">
@@ -178,7 +165,7 @@ Replacing credly badges with mslearn transcript
 ![Visitor Count](https://profile-counter.glitch.me/{mechdeveloper}/count.svg)
 
 [website]:  https://techhackswithash.com
-[blog]:     https://blog.techhackswithash.com
+[blog]:     https://www.techhackswithash.com/blog
 [medium]:   https://medium.com/@mechdeveloper
 [youtube]:  https://www.youtube.com/channel/UCJ7uLE5xaKA7qScKSX5Z_mw
 [twitch]:   https://www.twitch.tv/ashishsinghbaghel
