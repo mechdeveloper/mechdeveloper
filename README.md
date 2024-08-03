@@ -7,7 +7,7 @@
 [<img height="30" src="https://img.shields.io/twitch/status/ashishsinghbaghel?logo=twitch&style=for-the-badge" />][twitch]
 [<img height="30" src="https://img.shields.io/github/followers/mechdeveloper?label=Github&logo=github&style=for-the-badge" />][github]
 
-- 🔭 I’m currently working on Azure DevOps, Windows Containers, Azure Pipelines, Windows Server 2016
+- 🔭 I’m currently working on Azure DevOps, Linux and Windows server containers, Azure Pipelines, Windows Server 2016
 - 🌱 I’m currently learning Terraform, Microsoft Azure, Windows and Linux Containers, Kubernetes, Python and AI
 - 👯 I’m looking to collaborate on tech presentations/speaking, content creation and cool digital projects
 - 💬 Ask me about Azure DevOps, Docker, Microsoft Azure, Containers, PowerShell, C#, JavaScript
